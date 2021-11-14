@@ -5,7 +5,7 @@
 [![Linkedin: Akash Goyal](https://img.shields.io/badge/-Akash%20Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgoyal0401/)](https://www.linkedin.com/in/akashgoyal0401/)
 [![Twitter: Akash Goyal](https://img.shields.io/twitter/follow/AkashGoyal0401?style=social)](https://twitter.com/AkashGoyal0401)
 
-I develop software, mentor people and love meeting new people!
+I develop software, mentor tech enthusiasts and love meeting new people!
 
 <hr/>
 <img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=Akash-goyal-github&show_icons=true&theme=radical&count_private=true'/>
